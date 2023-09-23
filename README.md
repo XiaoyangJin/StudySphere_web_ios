@@ -82,7 +82,7 @@ This is an app where students can post their study progress and view their frien
 
 ## Wireframes
 
-![wireframe](https://imgur.com/a/TRbz6XU.png)
+![wireframe](https://imgur.com/a/TRbz6XU)
 
 ### [BONUS] Digital Wireframes & Mockups
 
