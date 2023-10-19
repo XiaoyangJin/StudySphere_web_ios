@@ -4,7 +4,6 @@
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
 
 ## Overview
 ### Description
@@ -84,9 +83,7 @@ This is an app where students can post their study progress and view their frien
 
 ![wireframe](https://i.imgur.com/B0r0E05.png)
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
+### Interactive Prototype
 
 <a href="https://www.loom.com/share/ff18511590cb49dba6d4e7867ad7a67b">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff18511590cb49dba6d4e7867ad7a67b-with-play.gif">
