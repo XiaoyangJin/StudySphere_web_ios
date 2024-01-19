@@ -1,10 +1,16 @@
 # StudySphere_web_ios
 
 ## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Related Repositories](#Related-Repositories)
+1. [Related Repositories](#Related-Repositories)
+2. [Overview](#Overview)
+3. [Product Spec](#Product-Spec)
+4. [Wireframes](#Wireframes)
+
+## Related Repositories
+### Angular Front-end Developement
+https://github.com/XiaoyangJin/Study_Sphere_Angular_FrontEnd.git
+### Spring Back-end Developement
+https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd.git
 
 ## Overview
 ### Description
@@ -89,7 +95,3 @@ This is an app where students can post their study progress and view their frien
 <a href="https://www.loom.com/share/ff18511590cb49dba6d4e7867ad7a67b">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff18511590cb49dba6d4e7867ad7a67b-with-play.gif">
   </a>
-
-## Related Repositories
-### Angular Front-end Developement
-https://github.com/XiaoyangJin/Study_Sphere_Angular_FrontEnd.git
