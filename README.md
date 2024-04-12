@@ -14,16 +14,17 @@ https://github.com/XiaoyangJin/Study_Sphere_Spring_BackEnd.git
 
 ## Overview
 ### Description
-This is an app where students can post their study progress and view their friends' progress
+This is an app where user can post their study progress and knowledge and view other's posts
 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Educational/Social Media
 - **Mobile:** iOS only
-- **Story:** Encourages students to study by posting their progress and viewing other's progress
-- **Market:** Students at all levels
-- **Habit:** Daily, user receives notification to view/post progress
+- **Browser:** Chrome, Firefox, Safari, Vivaldi
+- **Story:** Encourages and helps users to study by posting their progress and viewing other's progress
+- **Market:** Anyone loves study! Especially students at all levels
+- **Habit:** As needed, but user receives notification to view/post progress everyday
 - **Scope:** Broad, meets all users' needs
 
 ## Product Spec
